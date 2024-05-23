@@ -1,10 +1,10 @@
 body {
-  background-color: #fcdebe;
+  background-color: #fcfcfc;
   font-family: "platypi" sans-serif;
 }
 
 #intro {
-  color: #808000;
+  color: #06d6a0;
   height: 100vh;
 }
 
@@ -20,7 +20,7 @@ body {
 #intro h1 {
   font-family: "platypi";
   font-size: 96px;
-  filter: drop-shadow(5px 5px #5e5768);
+  filter: drop-shadow(5px 5px #26547c);
   animation: fadein ease-in 1s;
 }
 
@@ -66,7 +66,7 @@ body {
 
 #about {
   color: white;
-  background: #808000;
+  background: #06d6a0;
   padding: 30px;
   text-align: center;
   p {
@@ -75,7 +75,7 @@ body {
 }
 
 #contact {
-  background: #5e5768;
+  background: #26547c;
   color: white;
   padding: 30px;
   text-align: center;
@@ -102,13 +102,13 @@ body {
   padding: 30px;
   color: white;
   text-align: center;
-  background: #bdadea;
+  background: #ef476f;
 }
 
 footer {
   padding: 30px;
-  background: #fcdebe;
-  color: #808000;
+  background: #fcfcfc;
+  color: #06d6a0;
   text-align: center;
 }
 
@@ -116,15 +116,15 @@ footer {
 #contact,
 #portfolio,
 footer {
-  box-shadow: -10px 0px 25px #5e5768;
+  box-shadow: -10px 0px 25px #26547c;
 }
 
 .bg-light {
-  background-color: #808000 !important;
+  background-color: #06d6a0 !important;
 }
 
 #project {
-  background: #bdadea;
+  background: #ef476f;
   color: white;
   padding: 30px;
 }
